@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class SpeedBoostPickup : MonoBehaviour
+public class SpeedBoost : MonoBehaviour
 {
     private void OnCollisionEnter(Collision collision)
     {
